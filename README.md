@@ -1,0 +1,2 @@
+# Rapid-Ride
+I have built Rapid Ride database which is a Cab company. Rapid Ride will be using PL/SQL procedures and functions, to perform the day-to-day business with rides and payments. Stored data about Passenger Details, Cab Detail, Cab Owner Details, Payment details  and helped retrieve and update the necessary real time data using triggers .Generated reports using Oracle SQL &amp; PL/SQL, Integrated tasks and optimized the DB queries for better performance.
